@@ -1,0 +1,6 @@
+com\bankingProject\pageObjects\LoginPage.class
+com\bankingProject\testCases\BaseClass.class
+com\bankingProject\testCases\TC_LoginDDT002.class
+com\bankingProject\testCases\TC_LoginTest_001.class
+com\bankingProject\utilities\ReadConfig.class
+com\bankingProject\utilities\XLUtils.class
